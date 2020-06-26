@@ -20,8 +20,7 @@ line style - select one of 3 line style options when shape is selected or before
 Copy-Cut-Paste - Right click on an object to copy or cut and right click anywhere on the screen to paste the object.   
 Must be in select mode to use this feature.
 
-#Sources:
-Images  
+# Sources:
 selection  
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F605338%2Farrow_cursor_direct_selection_tool_tools_icon&psig=AOvVaw3GBHhMSoQufn2ZWx-LFCqK&ust=1583424369638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCensuZgegCFQAAAAAdAAAAABAD  
 eraser  
