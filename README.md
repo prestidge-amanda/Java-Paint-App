@@ -23,16 +23,16 @@ Must be in select mode to use this feature.
 #Sources:
 Images  
 selection  
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F605338%2Farrow_cursor_direct_selection_tool_tools_icon&psig=AOvVaw3GBHhMSoQufn2ZWx-LFCqK&ust=1583424369638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCensuZgegCFQAAAAAdAAAAABAD
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F605338%2Farrow_cursor_direct_selection_tool_tools_icon&psig=AOvVaw3GBHhMSoQufn2ZWx-LFCqK&ust=1583424369638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCensuZgegCFQAAAAAdAAAAABAD  
 eraser  
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2724462%2Ferase_eraser_remove_icon_icon&psig=AOvVaw2Bh1ahBZEEDZAX5KTo9Bmx&ust=1583424451782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDsi_SZgegCFQAAAAAdAAAAABAD
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2724462%2Ferase_eraser_remove_icon_icon&psig=AOvVaw2Bh1ahBZEEDZAX5KTo9Bmx&ust=1583424451782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDsi_SZgegCFQAAAAAdAAAAABAD  
 line  
-https://i.ya-webdesign.com/images/black-line-png-9.png
+https://i.ya-webdesign.com/images/black-line-png-9.png  
 circle  
-https://cdn1.iconfinder.com/data/icons/mixed-icon-3/512/Circle-512.png
+https://cdn1.iconfinder.com/data/icons/mixed-icon-3/512/Circle-512.png  
 square  
-https://cdn3.iconfinder.com/data/icons/eldorado-stroke-symbols/40/shape_square-512.png
+https://cdn3.iconfinder.com/data/icons/eldorado-stroke-symbols/40/shape_square-512.png  
 fill  
-https://cdn.iconscout.com/icon/premium/png-512-thumb/fill-20-380839.png
+https://cdn.iconscout.com/icon/premium/png-512-thumb/fill-20-380839.png  
 
 
